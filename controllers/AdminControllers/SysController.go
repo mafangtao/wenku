@@ -11,8 +11,8 @@ import (
 
 	"os"
 
-	"github.com/TruthHun/DocHub/helper"
-	"github.com/TruthHun/DocHub/models"
+	"DocHub/helper"
+	"DocHub/models"
 	"github.com/astaxie/beego/orm"
 )
 

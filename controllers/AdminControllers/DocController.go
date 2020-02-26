@@ -7,9 +7,9 @@ import (
 
 	"strings"
 
-	"github.com/TruthHun/DocHub/helper"
-	"github.com/TruthHun/DocHub/helper/conv"
-	"github.com/TruthHun/DocHub/models"
+	"DocHub/helper"
+	"DocHub/helper/conv"
+	"DocHub/models"
 	"github.com/astaxie/beego/orm"
 )
 

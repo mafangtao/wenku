@@ -3,13 +3,13 @@ package AdminControllers
 import (
 	"strings"
 
-	"github.com/TruthHun/DocHub/models"
+	"DocHub/models"
 
 	"time"
 
 	"fmt"
 
-	"github.com/TruthHun/DocHub/helper"
+	"DocHub/helper"
 	"github.com/astaxie/beego"
 )
 
